@@ -3,3 +3,7 @@
 - Install Tailwindcss 
 - Install DaisyUI
 - Add Navbar Component
+- Install React Router Dom
+- Create BrowserRouter, Routes, Route =/ Route => Children
+- Create an Outlet in the Body Component
+- Create a Footer
